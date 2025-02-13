@@ -1,0 +1,7 @@
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\C#_3curs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
