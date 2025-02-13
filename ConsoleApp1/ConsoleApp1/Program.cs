@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +28,7 @@ namespace ConsoleApp1
             int znach = -1;
             while (Math.Abs(teknum) >= tochnost)
             {
-                teknum = 4.0 / (double)drob * (double)znach;
+                teknum = 4.0 / drob * znach;
                 drob += 2;
                 first += teknum;
 
@@ -47,7 +47,7 @@ namespace ConsoleApp1
             int ogranichenie = 0;
             do
             {
-                teknum = 4.0 / (double)drob * (double)znach;
+                teknum = 4.0 / drob * znach;
                 drob += 2;
                 first += teknum;
                 znach *= -1;
